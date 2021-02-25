@@ -11,3 +11,5 @@ https://www.secureworks.com/research/dropboxaes-remote-access-trojan
 https://www.secureworks.com/research/bronz-vinewood-uses-hanaloader-to-target-government-supply-chain
 
 https://www.bankinfosecurity.com/google-offers-fresh-details-on-china-linked-hacking-group-a-15196
+
+https://research.checkpoint.com/2021/the-story-of-jian/
