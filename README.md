@@ -19,3 +19,5 @@ https://www.securityweek.com/finland-ids-hackers-linked-parliament-spying-attack
 https://twitter.com/Securityblog/status/1393669542715473920
 
 https://therecord.media/chinese-hacking-group-apt31-uses-mesh-of-home-routers-to-disguise-attacks/
+
+https://www.bleepingcomputer.com/news/security/france-warns-of-apt31-cyberspies-targeting-french-organizations/
