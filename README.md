@@ -23,3 +23,5 @@ https://therecord.media/chinese-hacking-group-apt31-uses-mesh-of-home-routers-to
 https://www.bleepingcomputer.com/news/security/france-warns-of-apt31-cyberspies-targeting-french-organizations/
 
 https://news.softpedia.com/news/new-chinese-spyware-identified-in-massive-cyber-espionage-campaigns-533670.shtml
+
+https://securityaffairs.co/wordpress/120796/apt/china-linked-apt31-targets-russia-for-the-first-time.html
