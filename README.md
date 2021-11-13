@@ -27,3 +27,5 @@ https://news.softpedia.com/news/new-chinese-spyware-identified-in-massive-cyber-
 https://securityaffairs.co/wordpress/120796/apt/china-linked-apt31-targets-russia-for-the-first-time.html
 
 https://thehackernews.com/2021/08/new-chinese-spyware-being-used-in.html
+
+https://www.sekoia.io/en/walking-on-apt31-infrastructure-footprints
