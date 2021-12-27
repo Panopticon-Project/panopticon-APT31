@@ -31,3 +31,5 @@ https://thehackernews.com/2021/08/new-chinese-spyware-being-used-in.html
 https://www.sekoia.io/en/walking-on-apt31-infrastructure-footprints
 
 https://imp0rtp3.wordpress.com/2021/11/25/sowat/
+
+https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-013/
