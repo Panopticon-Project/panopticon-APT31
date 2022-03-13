@@ -35,3 +35,5 @@ https://imp0rtp3.wordpress.com/2021/11/25/sowat/
 https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-013/
 
 https://www.securityweek.com/google-blocks-chinese-phishing-campaign-targeting-us-government
+
+https://securityaffairs.co/wordpress/128861/apt/google-blocked-apt31-attacks.html
