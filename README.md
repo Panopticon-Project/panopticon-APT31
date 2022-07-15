@@ -37,3 +37,5 @@ https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-013/
 https://www.securityweek.com/google-blocks-chinese-phishing-campaign-targeting-us-government
 
 https://securityaffairs.co/wordpress/128861/apt/google-blocked-apt31-attacks.html
+
+https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists
